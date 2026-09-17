@@ -1,0 +1,27 @@
+{
+  "1550104093660287056": {
+    "channel_id": 1550105080433475727,
+    "role_id": null,
+    "services": {
+      "disboard": {
+        "bot_id": 302050872383242240,
+        "keywords": [
+          "bump effectu\u00e9",
+          "bump done",
+          "successfully bumped"
+        ],
+        "cooldown_hours": 2
+      },
+      "dl": {
+        "bot_id": 528557940811104258,
+        "keywords": [
+          "Bump"
+        ],
+        "cooldown_hours": 4.0
+      }
+    },
+    "next_bump_times": {
+      "disboard": "2026-09-18T00:13:43.428570"
+    }
+  }
+}
